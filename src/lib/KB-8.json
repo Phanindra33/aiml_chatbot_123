@@ -1,0 +1,21 @@
+{
+    "FacultyMinimumQualification": "M.Tech",
+    "Instructors": [
+      {
+        "Name": "Kumar",
+        "Position": "Lab Instructor",
+        "Qualifications": ["Diploma (CSE)"]
+      },
+      {
+        "Name": "Chithra Shree H c",
+        "Position": "Lab Instructor",
+        "Qualifications": ["Diploma (CSE)", "BCA"]
+      },
+      {
+        "Name": "Shashikala N",
+        "Position": "Programmer",
+        "Qualifications": ["B.E (ECE)"]
+      }
+    ]
+  }
+  

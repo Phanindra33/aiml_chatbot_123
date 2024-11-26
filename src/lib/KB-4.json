@@ -1,0 +1,61 @@
+{
+    "LearningPath": {
+      "Languages": ["C", "Java", "Python", "R"],
+      "Laboratories": ["Application based", "Minor-project based"],
+      "Curriculum": ["MOOC based", "Case Study based"],
+      "ToolsAndFrameworks": [
+        "Scikit Learn",
+        "TensorFlow",
+        "Theano",
+        "Keras",
+        "PyTorch",
+        "NLTK",
+        "Spark",
+        "Auto ML",
+        "H20: Open Source AI Platform",
+        "Google ML Kit"
+      ],
+      "CoreLearning": {
+        "BasicEngineering": [
+          "Math's Foundation",
+          "Computer Science Foundation",
+          "Advance Computer Science",
+          "Cloud Computing",
+          "Big Data Analytics",
+          "Quantum Computing",
+          "Networks",
+          "Advance Java"
+        ],
+        "AIandMLFoundation": [
+          "Math's Foundation",
+          "Computer Science Foundation",
+          "AI & ML Foundation",
+          "Deep Learning",
+          "Text Processing",
+          "Image & Video Processing"
+        ]
+      },
+      "ElectiveTracks": {
+        "AdvanceComputerScienceEngineering": [
+          "Linux",
+          "Parallel & Distributed Computing",
+          "Advance Algorithms",
+          "Quantum Computing"
+        ],
+        "AdvanceAIandML": [
+          "Business Intelligence",
+          "Information Retrieval",
+          "Reinforcement Learning",
+          "Data Visualization"
+        ],
+        "AIandMLApplications": [
+          "Advance CSE & AI & ML Courses",
+          "AI in Healthcare",
+          "AI in Cyber Security",
+          "AI in Blockchain",
+          "AI in Robotics"
+        ]
+      }
+    }
+  }
+  

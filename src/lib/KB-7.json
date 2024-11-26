@@ -1,0 +1,71 @@
+{
+    "Faculty": [
+      {
+        "Name": "Dr. Vindhya P Malagi",
+        "Position": "Professor and HOD of AI&ML Department",
+        "Qualifications": ["B.E", "M.Tech", "Ph.D"],
+        "Link": "https://www.dsce.edu.in/images/ai_ml/faculty/Dr_Vindhya.pdf"
+      },
+      {
+        "Name": "Dr. Aruna M G",
+        "Position": "Associate Professor",
+        "Qualifications": ["B.E", "M.Tech", "Ph.D"],
+        "Link": "https://www.dsce.edu.in/images/ai_ml/faculty/Aruna.pdf"
+      },
+      {
+        "Name": "Dr. Reshma S",
+        "Position": "Associate Professor",
+        "Qualifications": ["B.E", "M.Tech", "Ph.D"],
+        "Link": "https://www.dsce.edu.in/images/ai_ml/faculty/DrReshma.pdf"
+      },
+      {
+        "Name": "Rashmi K",
+        "Position": "Assistant Professor",
+        "Qualifications": ["B.E", "M.Tech"],
+        "Link": "https://www.dsce.edu.in/images/ai_ml/faculty/Rashmi.pdf"
+      },
+      {
+        "Name": "Kavya D N",
+        "Position": "Assistant Professor",
+        "Qualifications": ["B.E", "M.Tech"],
+        "Link": "https://www.dsce.edu.in/images/ai_ml/faculty/KavyaD.pdf"
+      },
+      {
+        "Name": "Ramya K",
+        "Position": "Assistant Professor",
+        "Qualifications": ["B.E", "M.Tech"],
+        "Link": "https://www.dsce.edu.in/images/ai_ml/faculty/RamyaK.pdf"
+      },
+      {
+        "Name": "Asha K",
+        "Position": "Assistant Professor",
+        "Qualifications": ["B.E", "M.Tech"],
+        "Link": "https://www.dsce.edu.in/images/ai_ml/faculty/AshaK.pdf"
+      },
+      {
+        "Name": "Dr. Archudha A",
+        "Position": "Assistant Professor",
+        "Qualifications": ["B.E", "M.Tech", "Ph.D"],
+        "Link": "https://www.dsce.edu.in/images/ai_ml/faculty/DrArchudha.pdf"
+      },
+      {
+        "Name": "Ensteih Silvia",
+        "Position": "Assistant Professor",
+        "Qualifications": ["B.E", "M.Tech"],
+        "Link": "https://www.dsce.edu.in/images/ai_ml/faculty/Silvia.pdf"
+      },
+      {
+        "Name": "Deepshree Buchade",
+        "Position": "Assistant Professor",
+        "Qualifications": ["B.E", "M.Tech"],
+        "Link": "https://www.dsce.edu.in/images/ai_ml/faculty/Deepshree.pdf"
+      },
+      {
+        "Name": "Anupama Vijaykumar",
+        "Position": "Assistant Professor",
+        "Qualifications": ["B.E", "M.Tech(Ph.D)"],
+        "Link": "https://www.dsce.edu.in/images/ai_ml/faculty/Anupama.pdf"
+      }
+    ]
+  }
+  

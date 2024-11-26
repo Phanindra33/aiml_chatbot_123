@@ -1,0 +1,23 @@
+{
+    "ProfessionalBodies": {
+      "Link": "https://www.dsce.edu.in/ai-ml/aiml-scrsevents"
+    },
+    "Research": {
+      "Link": "https://www.dsce.edu.in/ai-ml/aiml-research",
+      "Details": {
+        "SupervisorDetails": "To know more about Supervisor Details",
+        "ScholarDetails": "To know more about Scholar Details",
+        "PatentDetails": "To know more about Patent Details",
+        "ResearchPublications": "To know more about Research Publications"
+      }
+    },
+    "Gallery": {
+      "Description": "Showcasing the milestones, events, and achievements of our department, the Gallery highlights our vibrant journey through captivating visuals and memories.",
+      "Link": "https://www.dsce.edu.in/ai-ml/aiml-gallery"
+    },
+    "Newsletter": {
+      "Description": "Stay informed and inspired with our Newsletter – your go-to source for the latest updates, achievements, and highlights from the department.",
+      "Link": "https://www.dsce.edu.in/ai-ml/aiml-newsletter"
+    }
+  }
+  

@@ -1,0 +1,34 @@
+{
+    "AcademicAdvisoryCommittee": [
+      {
+        "Name": "Satyanath Bhat",
+        "Position": "Assistant Professor",
+        "Affiliation": "Indian Institute of Technology, Goa"
+      },
+      {
+        "Name": "Dr. Pavan Kumar C",
+        "Position": "Assistant Professor",
+        "Department": "Department of Computer Science Engineering",
+        "Affiliation": "Indian Institute of Information Technology, Dharwad"
+      }
+    ],
+    "IndustryAdvisoryCommittee": [
+      {
+        "Name": "Nitesh Gupta",
+        "Position": "Senior Principal Scientist",
+        "Affiliation": "National Aerospace Laboratories, Bangalore"
+      },
+      {
+        "Name": "Suresh Ambekar",
+        "Position": "Chief Architect",
+        "Affiliation": "IBM"
+      },
+      {
+        "Name": "Mandar",
+        "Position": "Engineering Leader",
+        "Affiliation": "Amazon, USA",
+        "PreviousAffiliation": "Ex-Apple"
+      }
+    ]
+  }
+  

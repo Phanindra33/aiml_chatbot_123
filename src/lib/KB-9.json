@@ -1,0 +1,18 @@
+{
+    "IndustryInteractions": {
+      "Description": "A vital part of professional education, helping students prepare for their careers and gain practical experience. Industry experts in the curriculum, Industry visits, Internships, Mentoring, Seminars and guest lectures, Career advice, Industrial training, Final year projects.",
+      "Link": "https://www.dsce.edu.in/images/ai_ml/mou/Mouaudit.pdf"
+    },
+    "NewsAndEvents": {
+      "Link": "https://www.dsce.edu.in/ai-ml/aiml-news"
+    },
+    "Placements": {
+      "AIMLDepartment": {
+        "Link": "https://www.dsce.edu.in/ai-ml/aiml-placement"
+      },
+      "DSCE": {
+        "Link": "https://www.dsce.edu.in/placements"
+      }
+    }
+  }
+  
