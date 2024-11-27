@@ -1,235 +1,644 @@
 {
-  "department": {
-    "name": "Department of Artificial Intelligence and Machine Learning",
-    "location": "Shavige Malleshwara Hills, 91st Main Rd, 1st Stage, Kumaraswamy Layout, Bengaluru, Karnataka 560078",
-    "principal": {
-      "name": "Dr. B G Prasad",
-      "position": "Principal, Dayananda Sagar College of Engineering",
-      "qualifications": ["Ph.D"],
-      "contact": "principal@dayanandasagar.edu"
-    },
-    "vision": "To provide progressive education and flourish student ingenuity to be successful professionals impacting society for a smarter and ethical world.",
-    "mission": [
-      "Adopt engaging teaching-learning process with emphasis on problem solving and programming skills",
-      "Promote additional skill development through enhanced and experiential learning",
-      "Collaborate with industries and professional bodies to make students industry ready",
-      "Encourage innovation through multi-disciplinary research and development activities",
-      "Imbibe human values and ethics in students to make them impact society as responsible professionals"
-    ]
-  },
-  "admissions": {
-    "eligibility": {
-      "education": {
-        "qualification": "12th standard or equivalent",
-        "subjects_required": ["Physics", "Mathematics", "English"],
-        "optional_subjects": ["Chemistry", "Biology", "Computer Science", "Electronics"]
+    "department": {
+      "name": "Department of Artificial Intelligence and Machine Learning",
+      "location": "Shavige Malleshwara Hills, 91st Main Rd, 1st Stage, Kumaraswamy Layout, Bengaluru, Karnataka 560078",
+      "principal": {
+        "name": "Dr. B G Prasad",
+        "position": "Principal, Dayananda Sagar College of Engineering",
+        "qualifications": ["Ph.D"],
+        "contact": "principal@dayanandasagar.edu"
       },
-      "marks": {
-        "general": {
-          "percentage": "45%",
-          "subjects": ["Physics", "Mathematics", "Optional Subject"]
-        },
-        "reserved": {
-          "percentage": "40%",
-          "category": "SC/ST/OBC from Karnataka",
-          "subjects": ["Physics", "Mathematics", "Optional Subject"]
-        }
-      }
-    },
-    "entrance_exams": {
-      "primary": {
-        "name": "Karnataka CET",
-        "conducting_body": "Karnataka Examination Authority",
-        "website": "https://cetonline.karnataka.gov.in"
-      },
-      "alternative": {
-        "name": "COMEDK UGET",
-        "conducting_body": "Consortium of Medical, Engineering and Dental Colleges of Karnataka",
-        "website": "https://www.comedk.org"
-      }
-    },
-    "documents_required": [
-      "10th Standard Marks Card",
-      "12th Standard Marks Card",
-      "Entrance Exam Score Card (CET/COMEDK)",
-      "Transfer Certificate",
-      "Migration Certificate (if applicable)",
-      "Caste Certificate (if applicable)",
-      "Income Certificate (if applicable)",
-      "Domicile Certificate (if applicable)",
-      "Aadhar Card",
-      "Passport Size Photographs"
-    ],
-    "admission_process": {
-      "steps": [
-        "Qualify in 12th standard with required subjects and minimum marks",
-        "Appear for CET or COMEDK entrance examination",
-        "Register for counseling process",
-        "Document verification",
-        "Seat selection based on merit and category",
-        "Fee payment",
-        "Admission confirmation"
-      ],
-      "important_notes": [
-        "Admissions are strictly merit-based through government counseling",
-        "Separate counseling processes for CET and COMEDK",
-        "Original documents verification is mandatory",
-        "Admission is subject to verification of all documents"
+      "vision": "To provide progressive education and flourish student ingenuity to be successful professionals impacting society for a smarter and ethical world.",
+      "mission": [
+        "Adopt engaging teaching-learning process with emphasis on problem solving and programming skills",
+        "Promote additional skill development through enhanced and experiential learning",
+        "Collaborate with industries and professional bodies to make students industry ready",
+        "Encourage innovation through multi-disciplinary research and development activities",
+        "Imbibe human values and ethics in students to make them impact society as responsible professionals"
       ]
     },
-    "contact": {
-      "admission_office": "admissions@dsce.edu.in",
-      "phone": "+91-80-42161761",
-      "website": "https://www.dsce.edu.in/admissions"
-    }
-  },
-  "faculty": {
-    "hod": {
-      "name": "Dr. Vindhya P Malagi",
-      "position": "Professor and Head of Department",
-      "qualifications": ["B.E", "M.Tech", "Ph.D"],
-      "contact": "hod-ai@dayanandasagar.edu",
-      "profile": "https://www.dsce.edu.in/images/ai_ml/faculty/Dr_Vindhya.pdf"
+    "admissions": {
+      "eligibility": {
+        "education": {
+          "qualification": "12th standard or equivalent",
+          "subjects_required": ["Physics", "Mathematics", "English"],
+          "optional_subjects": ["Chemistry", "Biology", "Computer Science", "Electronics"]
+        },
+        "marks": {
+          "general": {
+            "percentage": "45%",
+            "subjects": ["Physics", "Mathematics", "Optional Subject"]
+          },
+          "reserved": {
+            "percentage": "40%",
+            "category": "SC/ST/OBC from Karnataka",
+            "subjects": ["Physics", "Mathematics", "Optional Subject"]
+          }
+        }
+      },
+      "entrance_exams": {
+        "primary": {
+          "name": "Karnataka CET",
+          "conducting_body": "Karnataka Examination Authority",
+          "website": "https://cetonline.karnataka.gov.in"
+        },
+        "alternative": {
+          "name": "COMEDK UGET",
+          "conducting_body": "Consortium of Medical, Engineering and Dental Colleges of Karnataka",
+          "website": "https://www.comedk.org"
+        }
+      },
+      "documents_required": [
+        "10th Standard Marks Card",
+        "12th Standard Marks Card",
+        "Entrance Exam Score Card (CET/COMEDK)",
+        "Transfer Certificate",
+        "Migration Certificate (if applicable)",
+        "Caste Certificate (if applicable)",
+        "Income Certificate (if applicable)",
+        "Domicile Certificate (if applicable)",
+        "Aadhar Card",
+        "Passport Size Photographs"
+      ],
+      "admission_process": {
+        "steps": [
+          "Qualify in 12th standard with required subjects and minimum marks",
+          "Appear for CET or COMEDK entrance examination",
+          "Register for counseling process",
+          "Document verification",
+          "Seat selection based on merit and category",
+          "Fee payment",
+          "Admission confirmation"
+        ],
+        "important_notes": [
+          "Admissions are strictly merit-based through government counseling",
+          "Separate counseling processes for CET and COMEDK",
+          "Original documents verification is mandatory",
+          "Admission is subject to verification of all documents"
+        ]
+      },
+      "contact": {
+        "admission_office": "admissions@dsce.edu.in",
+        "phone": "+91-80-42161761",
+        "website": "https://www.dsce.edu.in/admissions"
+      }
     },
-    "members": [
-      {
-        "name": "Dr. Aruna M G",
-        "position": "Associate Professor",
+    "latest news and latest events and placement": {
+        "news or latest news": "https://www.dsce.edu.in/ai-ml/aiml-news",
+        "events or latest events": "https://www.dsce.edu.in/ai-ml/aiml-news",
+        "placements": {
+          "department": "https://www.dsce.edu.in/ai-ml/aiml-placement",
+          "institute": "https://www.dsce.edu.in/placements"
+        }
+      },
+      "Curriculum Design and Engineering Conclave":{
+          "CurriculumDesign": {
+            "DepartmentAdvisoryBoardMeeting": {
+              "Description": "We have DEPARTMENT ADVISORY BOARD MEETING.",
+              "Link": "https://www.dsce.edu.in/images/ai_ml/DAB_Meeting.pdf"
+            },
+            "EngineeringConclave": {
+              "Description": "We have ENGINEERING CONCLAVE.",
+              "Link": "https://www.dsce.edu.in/images/ai_ml/Engineering_Conclave.pdf"
+            }
+          }
+      },
+      "Scheme and Syllabus":{
+        "SchemeAndSyllabus": {
+          "2020-Scheme": {
+            "Link": "https://www.dsce.edu.in/images/ai_ml/syllabus/Sem38.pdf"
+          },
+          "2021-Scheme": {
+            "Link": "https://www.dsce.edu.in/images/ai_ml/syllabus/21Sem38.pdf"
+          },
+          "2022-Scheme": {
+            "Link": "https://www.dsce.edu.in/images/ai_ml/syllabus/Sem35.pdf"
+          }
+        }
+      },
+      "NewsAndEvents": {
+        "Link": "https://www.dsce.edu.in/ai-ml/aiml-news"
+      },
+      "IndustryInteractions": {
+        "Description": "A vital part of professional education, helping students prepare for their careers and gain practical experience. Industry experts in the curriculum, Industry visits, Internships, Mentoring, Seminars and guest lectures, Career advice, Industrial training, Final year projects.",
+        "Link": "https://www.dsce.edu.in/images/ai_ml/mou/Mouaudit.pdf"
+      },
+      "ProfessionalBodies": {
+        "Link": "https://www.dsce.edu.in/ai-ml/aiml-scrsevents"
+      },
+      "Research": {
+        "Link": "https://www.dsce.edu.in/ai-ml/aiml-research",
+        "Details": {
+          "SupervisorDetails": "To know more about Supervisor Details",
+          "ScholarDetails": "To know more about Scholar Details",
+          "PatentDetails": "To know more about Patent Details",
+          "ResearchPublications": "To know more about Research Publications"
+        }
+      },
+      "Gallery": {
+        "Description": "Showcasing the milestones, events, and achievements of our department, the Gallery highlights our vibrant journey through captivating visuals and memories.",
+        "Link": "https://www.dsce.edu.in/ai-ml/aiml-gallery"
+      },
+      "Newsletter": {
+        "Description": "Stay informed and inspired with our Newsletter – your go-to source for the latest updates, achievements, and highlights from the department.",
+        "Link": "https://www.dsce.edu.in/ai-ml/aiml-newsletter"
+      },
+
+    "faculty": {
+      "hod": {
+        "name": "Dr. Vindhya P Malagi",
+        "position": "Professor and Head of Department",
         "qualifications": ["B.E", "M.Tech", "Ph.D"],
-        "profile": "https://www.dsce.edu.in/images/ai_ml/faculty/Aruna.pdf"
+        "contact": "hod-ai@dayanandasagar.edu",
+        "profile": "https://www.dsce.edu.in/images/ai_ml/faculty/Dr_Vindhya.pdf"
+      },
+      "members": [
+        {
+          "name": "Dr. Aruna M G",
+          "position": "Associate Professor",
+          "qualifications": ["B.E", "M.Tech", "Ph.D"],
+          "profile": "https://www.dsce.edu.in/images/ai_ml/faculty/Aruna.pdf"
+        },
+        {
+          "name": "Dr. Reshma S",
+          "position": "Associate Professor",
+          "qualifications": ["B.E", "M.Tech", "Ph.D"],
+          "profile": "https://www.dsce.edu.in/images/ai_ml/faculty/DrReshma.pdf"
+        },
+        {
+          "name": "Rashmi K",
+          "position": "Assistant Professor",
+          "qualifications": ["B.E", "M.Tech"],
+          "profile": "https://www.dsce.edu.in/images/ai_ml/faculty/Rashmi.pdf"
+        },
+        {
+          "name": "Kavya D N",
+          "position": "Assistant Professor",
+          "qualifications": ["B.E", "M.Tech"],
+          "profile": "https://www.dsce.edu.in/images/ai_ml/faculty/KavyaD.pdf"
+        },
+        {
+          "name": "Ramya K",
+          "position": "Assistant Professor",
+          "qualifications": ["B.E", "M.Tech"],
+          "profile": "https://www.dsce.edu.in/images/ai_ml/faculty/RamyaK.pdf"
+        },
+        {
+          "name": "Asha K",
+          "position": "Assistant Professor",
+          "qualifications": ["B.E", "M.Tech"],
+          "profile": "https://www.dsce.edu.in/images/ai_ml/faculty/AshaK.pdf"
+        },
+        {
+          "name": "Dr. Archudha A",
+          "position": "Assistant Professor",
+          "qualifications": ["B.E", "M.Tech", "Ph.D"],
+          "profile": "https://www.dsce.edu.in/images/ai_ml/faculty/DrArchudha.pdf"
+        },
+        {
+          "name": "Ensteih Silvia",
+          "position": "Assistant Professor",
+          "qualifications": ["B.E", "M.Tech"],
+          "profile": "https://www.dsce.edu.in/images/ai_ml/faculty/Silvia.pdf"
+        },
+        {
+          "name": "Deepshree Buchade",
+          "position": "Assistant Professor",
+          "qualifications": ["B.E", "M.Tech"],
+          "profile": "https://www.dsce.edu.in/images/ai_ml/faculty/Deepshree.pdf"
+        },
+        {
+          "name": "Anupama Vijaykumar",
+          "position": "Assistant Professor",
+          "qualifications": ["B.E", "M.Tech(Ph.D)"],
+          "profile": "https://www.dsce.edu.in/images/ai_ml/faculty/Anupama.pdf"
+        }
+      ],
+      "instructors": [
+        {
+          "name": "Kumar",
+          "position": "Lab Instructor",
+          "qualifications": ["Diploma (CSE)"]
+        },
+        {
+          "name": "Chithra Shree H C",
+          "position": "Lab Instructor",
+          "qualifications": ["Diploma (CSE)", "BCA"]
+        },
+        {
+          "name": "Shashikala N",
+          "position": "Programmer",
+          "qualifications": ["B.E (ECE)"]
+        }
+      ]
+    },
+    "industry_collaboration": {
+      "description": "A vital part of professional education, helping students prepare for their careers and gain practical experience.",
+      "activities": [
+        "Industry experts in the curriculum",
+        "Industry visits",
+        "Internships",
+        "Mentoring",
+        "Seminars and guest lectures",
+        "Career advice",
+        "Industrial training",
+        "Final year projects"
+      ],
+      "documentation": {
+        "mou_link": "https://www.dsce.edu.in/images/ai_ml/mou/Mouaudit.pdf"
+      }
+    },
+    "links": {
+      "news_and_events": "https://www.dsce.edu.in/ai-ml/aiml-news",
+      "placements": {
+        "department": "https://www.dsce.edu.in/ai-ml/aiml-placement",
+        "institute": "https://www.dsce.edu.in/placements"
+      }
+    },
+    "GeneralAdmissionsQuestions":{
+    
+        "What are the admission requirements for the engineering programs at the college?": 
+        "To get admission to an undergraduate engineering program at Dayananda Sagar College of Engineering, you must have passed your 12th or equivalent exam with Physics, Mathematics, and English. You'll need a minimum of 45% marks in Physics, Mathematics, and one of Chemistry, Biology, Computer Science, or Electronics. However, if you belong to SC, ST, or OBC categories from Karnataka, you need a minimum of 40% marks in the optional subjects. Admission is primarily based on the Common Entrance Test (CET) conducted by the Karnataka government and COMEDK.",
+      
+        "Can you explain the selection process for admissions in detail?":
+        "To get into Dayananda Sagar College of Engineering for an undergraduate engineering program, you must first pass your 12th or equivalent exam with Physics, Mathematics, and English. You'll need a minimum of 45% marks in Physics, Mathematics, and one of Chemistry, Biology, Computer Science, or Electronics. However, if you're from Karnataka and belong to SC, ST, or OBC categories, you only need 40% in the optional subjects. Admission is primarily based on your rank in the Common Entrance Test (CET) conducted by the Karnataka government or COMEDK. After the CET, you'll participate in a counseling process where you can choose your preferred course and college based on your rank and seat availability. If you're allotted a seat at DSCE, you'll need to complete the admission formalities, including document verification and fee payment."
+      ,
+      
+         "What is the application timeline for the engineering programs?"
+        : "The application timeline for DSCE engineering programs is linked to the CET exam conducted in May. Results are announced shortly after, followed by the counseling process in June. Keep an eye on the Karnataka Examination Authority and COMEDK websites for exact dates and deadlines."
+      ,
+      
+         "Which entrance exams are accepted for admission (e.g., KCET, COMEDK)?"
+        : "Admission to Dayananda Sagar College of Engineering is primarily based on the Common Entrance Test (CET) conducted by the Karnataka government and COMEDK."
+      ,
+      
+         "Are there minimum cut-off marks required for the different engineering courses?"
+        : "Yes, there are minimum cut-off marks required for different engineering courses at DSCE. These cut-offs vary based on the course, category, and round of counseling. For instance, in 2024, the cut-off rank for Computer Science Engineering in the General category was 4024. You can check the official DSCE website or other reliable sources for the most accurate and up-to-date information on cut-off ranks."
+      ,
+      
+         "How are merit scholarships awarded, and what are the eligibility criteria?"
+        : "Students can explore various scholarship opportunities based on merit, need, and category. Some popular scholarships for engineering students include the Central Sector Scheme of Scholarships for College and University Students, Prime Minister's Scholarships for specific categories, and scholarships offered by organizations like Jindal Foundation and Dharmasthala Kshemabirudi Sangha. Additionally, state government scholarships like E-PASS and KAREPASS cater to specific categories and income criteria. It's recommended to check official government and private organization websites for detailed eligibility criteria, application procedures, and deadlines."
+      ,
+      
+         "Are there options for lateral entry into engineering programs?"
+        : "Yes, there are options for lateral entry into engineering programs in DSCE. This allows students who have completed a diploma in engineering or a similar qualification to directly enter the second year of a B.Tech program."
+      ,
+      
+         "How many seats are available in each engineering branch?"
+        : "Dayananda Sagar College of Engineering (DSCE) offers a variety of engineering courses with varying seat intakes for the 2024-2025 academic year. Some of the popular courses and their approximate seat intakes include: Artificial Intelligence Machine Learning (AIML): 60, Computer Science and Engineering: 240 seats, Electronics and Communication Engineering: 240 seats, Electrical and Electronics Engineering: 120 seats, Computer Science and Design: 60 seats."
+      ,
+      
+         "Is there a management quota, and what is the process for applying to it?"
+        : "Eligibility: Minimum 70% in 10th standard Maths and Science, 65% in 12th standard Maths and Physics. Entrance Exam: Appear for CET/COMEDK/AIEEE/JEE/other national entrance tests. Document Verification: Submit original and scanned copies of 10th, 12th marksheets, transfer certificate, migration certificate (if applicable), passport-sized photo, and parents' PAN card. Hostel Accommodation: Book hostel accommodation in advance. Fee Payment: Make payments online or by DD after confirmation."
+      ,
+      
+         "Are there specific admission criteria for non-Karnataka students?"
+        : "No, special criteria. Eligibility: Minimum 70% in 10th standard Maths and Science, 65% in 12th standard Maths and Physics. Entrance Exam: Appear for CET/COMEDK/AIEEE/JEE/other national entrance tests. Document Verification: Submit original and scanned copies of 10th, 12th marksheets, transfer certificate, migration certificate (if applicable), passport-sized photo, and parents' PAN card. Hostel Accommodation: Book hostel accommodation in advance. Fee Payment: Make payments online or by DD after confirmation."
+  },
+  
+  "Program-Specific Questions": {
+    
+      "What specializations does the engineering department offer?": 
+      "The engineering department offers a wide variety of specializations, including core disciplines such as aeronautical, automobile, civil, computer science, electronics, electrical, mechanical, and biotechnology engineering. Specialized fields such as medical electronics, chemical engineering, and information science are also available. Additionally, foundational subjects like engineering chemistry, mathematics, and physics are part of the curriculum, and there are postgraduate programs in computer applications and business administration."
+    ,
+    
+      "Can you outline the curriculum structure for various engineering programs?":
+      "The B.E. in AI & ML program at DSCE provides a comprehensive curriculum that begins with a solid foundation in computer science. It covers key topics in artificial intelligence (AI) and machine learning (ML), including machine learning algorithms, deep learning, natural language processing, computer vision, and generative AI. Students engage in hands-on projects and case studies, providing them with the practical experience needed to address real-world challenges in AI and ML."
+    ,
+    
+      "What core subjects do students cover in their first year?":
+      "In the first semester of the B.E. in AI & ML program at DSCE, students focus on subjects fundamental to engineering and technology. Core courses include mathematics, physics, and introductory programming with C. Students also study engineering science, emerging technologies, and communication skills through courses in communicative English and Indian Constitution. Additionally, there is a course focused on the scientific foundations of health and happiness to encourage holistic development."
+    ,
+    
+      "Are there interdisciplinary programs or dual degree options available?":
+      "DSCE promotes innovation and interdisciplinary learning. While specific interdisciplinary or dual degree options may not be explicitly mentioned, students are encouraged to explore cross-disciplinary fields and take part in interdisciplinary projects. For up-to-date information, it's recommended to regularly check the college’s official website for any updates regarding new programs or initiatives."
+    ,
+    
+      "How experienced are the faculty members, and what are their qualifications?":
+      "DSCE ensures that its faculty members are highly qualified and experienced. Many of the faculty hold postgraduate degrees such as M.Tech. or Ph.D. in their respective fields. In addition to their academic qualifications, some faculty members bring valuable industry experience to their teaching, offering a practical perspective alongside theoretical knowledge."
+    ,
+    
+      "How does the college support faculty development and training?":
+      "DSCE supports faculty development through Faculty Development Programs (FDPs) organized regularly. These programs focus on enhancing the faculty's knowledge of emerging technologies and contemporary teaching methodologies. Furthermore, faculty members are encouraged to engage in research, supported by research grants and incentives. DSCE also collaborates with industries to offer faculty members exposure to real-world applications and provides opportunities for professional growth through higher education and certifications."
+    ,
+    
+      "What unique facilities does the college offer for engineering students?" :
+      "DSCE provides a wide range of state-of-the-art facilities, including well-equipped laboratories with the latest tools and technologies for hands-on learning. The curriculum is industry-aligned, ensuring students gain the skills required for the job market. The faculty is highly qualified, offering students real-world insights and mentorship. Additionally, students have access to a variety of extracurricular and co-curricular activities, further enriching their learning experience."
+    ,
+    
+      "Can you describe the industry partnerships that the department has?":
+      "DSCE has established strong industry partnerships to enhance the learning experience for its students. These partnerships include opportunities for internships, industry-based projects, and mentorship programs, giving students real-world exposure and practical insights. The college also organizes industry visits, workshops, and guest lectures, which help students stay updated on the latest industry trends and developments."
+    ,
+    
+      "Are there opportunities for students to work on live projects with industry partners?":
+      "Yes, DSCE offers students opportunities to work on live projects in collaboration with industry partners. These projects allow students to apply their academic knowledge in real-world scenarios, gaining valuable experience and skills. The college's industry partnerships help facilitate these live projects, providing students with exposure to actual industry challenges and practices."
+    
+  },
+  "Laboratory and Research Facilities": {
+      
+        "What types of laboratories are available for hands-on learning?":
+        "DSCE boasts a wide array of well-equipped laboratories to facilitate hands-on learning. These labs cater to various engineering disciplines, including computer science, electronics, mechanical, and civil engineering. Students have access to state-of-the-art facilities for software development, hardware prototyping, material testing, and simulation. These labs are equipped with industry-standard tools and software, providing students with real-world experience and preparing them for future challenges."
+      ,
+      
+        "How often are the lab facilities updated with new technologies?":
+        "At DSCE, we are committed to providing our students with the latest technological advancements. Our labs are regularly updated with state-of-the-art equipment and software to ensure that our students have access to the most cutting-edge tools and techniques. We continuously invest in upgrading our infrastructure and collaborating with industry partners to stay ahead of the curve."
+      ,
+      
+        "Are there dedicated research centers within the engineering department?":
+        "Yes, DSCE has 20 research centers approved by VTU, catering to research scholars pursuing Ph.D. degrees across various engineering disciplines. These centers foster research activities, providing opportunities for faculty and students to engage in cutting-edge research projects. Additionally, DSCE encourages faculty and students to participate in research projects funded by government agencies and private organizations, further promoting a culture of innovation and research excellence."
+      ,
+      
+        "What types of research projects have recently been undertaken by students?":
+        "Recent research projects at Dayananda Sagar College of Engineering (DSCE) have focused on a variety of cutting-edge areas. Students and faculty have been actively involved in projects related to artificial intelligence, machine learning, internet of things, robotics, and sustainable technologies. These projects often involve collaboration with industry partners and other academic institutions, providing students with valuable real-world experience and opportunities to contribute to innovative solutions."
+      ,
+      
+        "Can students participate in national or international conferences to present their research?":
+        "Yes, students at Dayananda Sagar College of Engineering (DSCE) are actively encouraged to participate in national and international conferences to present their research findings. The college fosters a strong research culture, providing students with ample opportunities to engage in research projects under the guidance of experienced faculty. DSCE also organizes various workshops, seminars, and conferences on emerging technologies, which further stimulate students' interest in research and innovation. By participating in these events, students gain valuable exposure, enhance their communication skills, and network with industry experts."
+      
+  },
+  
+  "Curriculum and Learning Approach": {
+    
+      "How does the curriculum integrate practical learning experiences?":
+      "DSCE prioritizes practical learning through various methods. Students engage in hands-on laboratory sessions, design projects, and internships to gain real-world experience. The curriculum includes industry-relevant projects and collaborations with industry experts, ensuring students are well-prepared for professional challenges. Additionally, the college organizes workshops, seminars, and guest lectures by industry leaders to expose students to the latest trends and technologies."
+    ,
+    
+      "Are internships mandatory for engineering students, and what support is provided?":
+      "While internships are not strictly mandatory at Dayananda Sagar College of Engineering (DSCE), they are highly encouraged and supported. The college has strong industry ties and actively facilitates internship opportunities for students. The Training and Placement Cell at DSCE assists students in securing internships with renowned companies. They provide guidance on resume building, interview preparation, and networking. Internships offer valuable practical experience, enhance skill sets, and boost employability. DSCE's supportive environment and industry connections make it easier for students to secure internships and gain valuable insights into the professional world."
+    ,
+    
+       "What teaching methodologies are primarily utilized in engineering courses?":
+      "Dayananda Sagar College of Engineering (DSCE) employs a diverse range of teaching methodologies to enhance student learning. These include traditional lecture-based teaching, complemented by practical sessions, project-based learning, and industry visits. Students also benefit from seminars, workshops, and online learning platforms. This comprehensive approach ensures that students gain both theoretical knowledge and practical skills, preparing them for successful careers in engineering."
+    ,
+    
+      "How often is the curriculum updated to align with industry practices?":
+      "Dayananda Sagar College of Engineering (DSCE) is committed to staying abreast of the latest industry trends and technological advancements. To ensure that the curriculum remains relevant and industry-ready, the college regularly reviews and updates its programs. This involves periodic curriculum revisions, which are informed by feedback from industry experts, alumni, and academicians. By incorporating the latest industry practices, DSCE aims to equip its students with the necessary skills and knowledge to excel in their chosen careers."
+    ,
+    
+       "Are there opportunities for field visits or industry tours as part of the curriculum?":
+      "Dayananda Sagar College of Engineering (DSCE) recognizes the importance of practical exposure and industry insights. To bridge the gap between theory and practice, the college organizes regular field visits and industry tours. These excursions allow students to witness real-world applications of engineering principles, interact with industry professionals, and gain valuable insights into the latest technological advancements. By incorporating these industry interactions into the curriculum, DSCE aims to prepare students for successful careers in the engineering field."
+  },
+  
+  "Placement and Career Opportunities": {
+    
+      "What is the college’s placement record over the past few years?":
+      "The fee structure for various B.E. programs at Dayananda Sagar College of Engineering ranges from 2.75 lakhs to 5.00 lakhs per year. Programs like Computer Science and Engineering, Computer Science and Design, and Artificial Intelligence & Machine Learning have a higher fee structure, while programs like Automobile Engineering, Chemical Engineering, and Mechanical Engineering have a lower fee structure."
+    ,
+    
+      "Which companies actively recruit from Dayananda Sagar College?":
+       "IBM, Google, Amazon, Motorola, Caterpillar, Facebook, Siemens, Oracle, Dell, HP, Accenture, Honeywell, PayPal, Flipkart, Intel, Infosys, Samsung, Juniper Networks."
+    ,
+    
+      "Are there established placement patterns in specific engineering branches?":
+       "Yes, there are established placement patterns in specific engineering branches. Computer Science and Engineering, Electronics and Communication Engineering, and Information Science Engineering are consistently in high demand due to their relevance to emerging technologies. These branches often have strong placement records with top tech companies. Mechanical Engineering, Civil Engineering, and Electrical Engineering also have good placement opportunities, particularly in core industries and infrastructure sectors. However, the specific placement scenario can vary year to year, depending on industry trends and economic conditions."
+    ,
+    
+      "What types of roles do graduating students typically secure?":
+       "Graduating students from Dayananda Sagar College of Engineering (DSCE) typically secure a wide range of roles across various industries. Computer Science and Engineering graduates often land positions as software engineers, data scientists, and cybersecurity specialists."
+    ,
+    
+      "What career development workshops are offered to students during their studies?":
+       "Dayananda Sagar College of Engineering (DSCE) offers a variety of career development workshops to equip students with the necessary skills for a successful career. These workshops cover a range of topics, including resume writing, interview preparation, soft skills development, technical skills enhancement, and career counseling."
+    ,
+    
+      "How does the placement cell support students in preparing for job interviews?":
+       "The placement cell at Dayananda Sagar College of Engineering (DSCE) plays a pivotal role in preparing students for job interviews. They organize mock interviews, resume workshops, and group discussion sessions to help students develop essential communication and presentation skills."
+    
+  },
+  
+  
+  
+  
+  
+  "Student Life and Support": {
+    
+      "What extracurricular activities are available for engineering students?":
+      "Dayananda Sagar College of Engineering (DSCE) offers a vibrant extracurricular scene, catering to diverse interests. Students can participate in various clubs and organizations, including technical clubs, cultural clubs, sports teams, and social service initiatives."
+    ,
+    
+      "Are there clubs or organizations specifically for engineering students?":
+      "Yes, Dayananda Sagar College of Engineering (DSCE) fosters a vibrant student community through a variety of clubs and organizations, including technical teams like Mudita, Anokya, and Point Blank. These teams provide students with opportunities to explore their interests in technology, participate in competitions, and develop practical skills. By engaging in these activities, students can enhance their technical expertise and gain valuable experience."
+    ,
+    
+       "How does the college support student mental health and wellness?":
+      "Dayananda Sagar College of Engineering (DSCE) recognizes the importance of student mental health and well-being. The college provides various support services to help students cope with stress, anxiety, and other mental health challenges."
+    ,
+    
+        "What accommodation options are available for out-of-town students?":
+        "Dayananda Sagar College of Engineering (DSCE) provides comfortable and secure hostel accommodation for out-of-town students. The hostels are well-equipped with modern amenities like Wi-Fi, recreational facilities, and 24/7 security. The college ensures a conducive environment for students to focus on their studies and personal development."
+    ,
+    
+       "Can you describe the campus dining facilities and options?":
+      "Dayananda Sagar College of Engineering (DSCE) offers a variety of dining options to cater to diverse tastes. The campus boasts a modern food court with multiple outlets serving a range of cuisines, from Indian and Chinese to continental and fast food. Students can also avail themselves of canteens and cafeterias located strategically across the campus."
+    ,
+    
+      "How safe is the campus for students, and what security measures are in place?":
+      "Dayananda Sagar College of Engineering (DSCE) prioritizes the safety and security of its students. The campus is equipped with state-of-the-art security systems, including CCTV surveillance, security personnel, and emergency response protocols. The college also conducts regular security audits and fire drills to ensure a safe environment."
+    ,
+    
+      "Are there facilities for co-curricular and extra curricular activities such as sports and fitness?":
+      "Yes, Dayananda Sagar College of Engineering (DSCE) offers excellent facilities for co-curricular and extracurricular activities, promoting holistic development among students. The campus boasts modern sports facilities, including a gymnasium, sports fields for cricket, football, and basketball, and courts for tennis, badminton, and volleyball. Students can also participate in various indoor games like chess, carrom, and table tennis."
+    
+  },
+  
+  
+  "Financial": {
+    
+      "What is the overall fee structure for the engineering programs?":
+      "Visit to this link: https://www.dsce.edu.in/admissions/fee-structure"
+    ,
+    
+      "Are there any additional costs that parents should be aware of?":
+      "Yes, there will be an exam fee for KCET, COMEDK students. The notice will be issued in advance to the parents."
+    ,
+    
+      "What scholarships are available to students from economically weaker backgrounds?":
+      "Yes, scholarships are available, as we want to help talented students who are facing economic challenges."
+    ,
+    
+      "Are there educational loans available through the college?":
+      "No"
+    ,
+    
+      "Are there any alumni scholarships?":
+       "No"
+  },
+  
+  
+  
+  "Final Considerations": {
+    
+      "What distinguishes Dayananda Sagar College of Engineering from other institutions?":
+      "Dayananda Sagar College of Engineering (DSCE) distinguishes itself from other institutions through its strong emphasis on holistic development, industry-oriented curriculum, and a vibrant campus culture. The college boasts experienced faculty, state-of-the-art infrastructure, and a strong focus on research and innovation. DSCE's commitment to providing a quality education."
+    ,
+    
+      "How does the college facilitate a smooth transition for first-year students?":
+      "Dayananda Sagar College of Engineering (DSCE) provides a supportive environment to help first-year students transition smoothly into college life. Orientation programs are conducted to familiarize new students with the campus, faculty, and academic expectations. Mentorship programs pair senior students with freshmen to provide guidance and support."
+    ,
+    
+       "What input do current students have about their experiences at the college?":
+       "Dayananda Sagar College of Engineering (DSCE) prides itself on fostering a positive and enriching learning environment. Current students often express satisfaction with the college's strong academic programs, experienced faculty, and modern infrastructure. They appreciate the emphasis on practical learning through projects, internships, and industry collaborations."
+    ,
+    
+       "Are there opportunities for students to pursue certifications alongside their degree?":
+       "Dayananda Sagar College of Engineering (DSCE) provides opportunities for students to pursue certifications alongside their degree programs. The college often collaborates with industry partners to offer certifications in various technologies and domains."
+    ,
+    
+       "How does the college prepare students for higher studies if they choose that path?":
+       "Dayananda Sagar College of Engineering (DSCE) prepares students for higher studies by fostering a strong academic foundation and research culture. The college encourages students to participate in research projects, attend conferences, and publish papers. Faculty members guide students in preparing for competitive exams like GATE and GRE."
+    ,
+    
+       "Are parents invited to participate in any events or activities organized by the college?":
+       "Yes, Dayananda Sagar College of Engineering (DSCE) actively involves parents in the academic and extracurricular life of their children. The college organizes various events and activities throughout the year, such as parent-teacher meetings, workshops, and cultural programs, where parents are invited to participate. These events provide an opportunity for parents to interact with faculty, understand their child's academic progress."
+    ,
+    
+       "Is there a mentorship program connecting new students with seniors or faculty?":
+       "Yes, Dayananda Sagar College of Engineering (DSCE) has a robust mentorship program designed to provide guidance and support to new students. This program pairs incoming students with experienced seniors or faculty members who can offer advice on academic matters, career paths, and campus life. Mentors help new students adjust to college life, answer their questions."
+    
+  },
+  
+  
+  "Miscellaneous": {
+    
+       "How diverse is the student body at the college?":
+       "Dayananda Sagar College of Engineering (DSCE) prides itself on fostering a diverse and inclusive student body. Students from various states within India and even international students contribute to the rich cultural tapestry of the campus. This diversity enriches the learning experience, promoting cross-cultural understanding and global perspectives."
+    ,
+    
+       "What initiatives does the college take to promote sustainability and environmental awareness?":
+       "Dayananda Sagar College of Engineering (DSCE) is committed to promoting sustainability and environmental awareness. The college actively encourages eco-friendly practices, such as waste reduction, energy conservation, and water management."
+    ,
+    
+       "Are there opportunities for students to attend workshops and seminars conducted by industry experts?":
+       "Yes, Dayananda Sagar College of Engineering (DSCE) actively organizes workshops and seminars conducted by industry experts. These events provide students with valuable insights into the latest industry trends, technologies, and best practices. By attending these workshops and seminars, students can enhance their knowledge, skills."
+    ,
+    
+       "How does the college support community service and outreach programs?":
+       "Dayananda Sagar College of Engineering (DSCE) actively promotes community service and outreach programs. Students are encouraged to participate in various initiatives, such as organizing blood donation camps, tree plantation drives, and educational workshops for underprivileged children."
+    ,
+    
+       "What is the process for students to provide feedback on courses and teaching?":
+       "Dayananda Sagar College of Engineering (DSCE) values student feedback as a crucial tool for improving the quality of education. Students can provide feedback through various channels, including online forms, direct interaction with faculty, departmental feedback sessions, and through the student council."
+    
+  },
+  
+  "Alumni": {
+    
+       "What is the role of the alumni network in supporting current students?":
+      "The Dayananda Sagar College of Engineering (DSCE) alumni network plays a vital role in supporting current students. Alumni provide mentorship, career guidance, and networking opportunities. They organize workshops, seminars, and industry visits, sharing their experiences and insights."
+    ,
+    
+       "Are there regular alumni interactions or networking events organized by the college?":
+      "Yes, Dayananda Sagar College of Engineering (DSCE) actively fosters strong alumni connections through regular interactions and networking events. These events provide opportunities for alumni to reconnect with their alma mater, network with fellow alumni, and mentor current students."
+    ,
+    
+       "Can the college provide references or contacts for successful alumni?":
+      "While Dayananda Sagar College of Engineering (DSCE) may not have a formal system for providing direct references or contacts of successful alumni, it often organizes alumni meet-ups and events. These events offer opportunities for current students to interact with alumni, learn about their experiences, and seek guidance."
+    
+  },
+
+  "Committee":{
+    "AcademicAdvisoryCommittee or AAC": [
+      {
+        "Name": "Satyanath Bhat",
+        "Position": "Assistant Professor",
+        "Affiliation": "Indian Institute of Technology, Goa"
       },
       {
-        "name": "Dr. Reshma S",
-        "position": "Associate Professor",
-        "qualifications": ["B.E", "M.Tech", "Ph.D"],
-        "profile": "https://www.dsce.edu.in/images/ai_ml/faculty/DrReshma.pdf"
-      },
-      {
-        "name": "Rashmi K",
-        "position": "Assistant Professor",
-        "qualifications": ["B.E", "M.Tech"],
-        "profile": "https://www.dsce.edu.in/images/ai_ml/faculty/Rashmi.pdf"
-      },
-      {
-        "name": "Kavya D N",
-        "position": "Assistant Professor",
-        "qualifications": ["B.E", "M.Tech"],
-        "profile": "https://www.dsce.edu.in/images/ai_ml/faculty/KavyaD.pdf"
-      },
-      {
-        "name": "Ramya K",
-        "position": "Assistant Professor",
-        "qualifications": ["B.E", "M.Tech"],
-        "profile": "https://www.dsce.edu.in/images/ai_ml/faculty/RamyaK.pdf"
-      },
-      {
-        "name": "Asha K",
-        "position": "Assistant Professor",
-        "qualifications": ["B.E", "M.Tech"],
-        "profile": "https://www.dsce.edu.in/images/ai_ml/faculty/AshaK.pdf"
-      },
-      {
-        "name": "Dr. Archudha A",
-        "position": "Assistant Professor",
-        "qualifications": ["B.E", "M.Tech", "Ph.D"],
-        "profile": "https://www.dsce.edu.in/images/ai_ml/faculty/DrArchudha.pdf"
-      },
-      {
-        "name": "Ensteih Silvia",
-        "position": "Assistant Professor",
-        "qualifications": ["B.E", "M.Tech"],
-        "profile": "https://www.dsce.edu.in/images/ai_ml/faculty/Silvia.pdf"
-      },
-      {
-        "name": "Deepshree Buchade",
-        "position": "Assistant Professor",
-        "qualifications": ["B.E", "M.Tech"],
-        "profile": "https://www.dsce.edu.in/images/ai_ml/faculty/Deepshree.pdf"
-      },
-      {
-        "name": "Anupama Vijaykumar",
-        "position": "Assistant Professor",
-        "qualifications": ["B.E", "M.Tech(Ph.D)"],
-        "profile": "https://www.dsce.edu.in/images/ai_ml/faculty/Anupama.pdf"
+        "Name": "Dr. Pavan Kumar C",
+        "Position": "Assistant Professor",
+        "Department": "Department of Computer Science Engineering",
+        "Affiliation": "Indian Institute of Information Technology, Dharwad"
       }
     ],
-    "instructors": [
+    "IndustryAdvisoryCommittee or IAC": [
       {
-        "name": "Kumar",
-        "position": "Lab Instructor",
-        "qualifications": ["Diploma (CSE)"]
+        "Name": "Nitesh Gupta",
+        "Position": "Senior Principal Scientist",
+        "Affiliation": "National Aerospace Laboratories, Bangalore"
       },
       {
-        "name": "Chithra Shree H C",
-        "position": "Lab Instructor",
-        "qualifications": ["Diploma (CSE)", "BCA"]
+        "Name": "Suresh Ambekar",
+        "Position": "Chief Architect",
+        "Affiliation": "IBM"
       },
       {
-        "name": "Shashikala N",
-        "position": "Programmer",
-        "qualifications": ["B.E (ECE)"]
+        "Name": "Mandar",
+        "Position": "Engineering Leader",
+        "Affiliation": "Amazon, USA",
+        "PreviousAffiliation": "Ex-Apple"
       }
     ]
   },
-  "industry_collaboration": {
-    "description": "A vital part of professional education, helping students prepare for their careers and gain practical experience.",
-    "activities": [
-      "Industry experts in the curriculum",
-      "Industry visits",
-      "Internships",
-      "Mentoring",
-      "Seminars and guest lectures",
-      "Career advice",
-      "Industrial training",
-      "Final year projects"
-    ],
-    "documentation": {
-      "mou_link": "https://www.dsce.edu.in/images/ai_ml/mou/Mouaudit.pdf"
-    }
-  },
-  "links": {
-    "news_and_events": "https://www.dsce.edu.in/ai-ml/aiml-news",
-    "placements": {
-      "department": "https://www.dsce.edu.in/ai-ml/aiml-placement",
-      "institute": "https://www.dsce.edu.in/placements"
-    }
-  },
-  "program": {
-    "name": "B.E. in Artificial Intelligence and Machine Learning",
-    "duration": "4 years",
-    "description": "A comprehensive program designed for ambitious students eager to embark on a fulfilling career in AI & ML",
-    "outcomes": {
-      "PSO1": "Graduates will be adept in programming and problem solving skills for developing and managing software",
-      "PSO2": "Graduates will be able to identify, formulate, predict and solve real world problems using AI & ML principles",
-      "PSO3": "Graduates will be proficient in efficiently managing computer system resources using cloud computing technologies"
-    }
-  },
-  "curriculum": {
-    "learning_path": {
-      "languages": ["C", "Java", "Python", "R"],
-      "tools_frameworks": [
-        "Scikit Learn",
-        "TensorFlow",
-        "PyTorch",
-        "NLTK",
-        "Spark",
-        "Auto ML",
-        "H2O"
-      ],
-      "core_tracks": {
-        "basic_engineering": [
-          "Mathematics Foundation",
-          "Computer Science Foundation",
-          "Cloud Computing",
-          "Big Data Analytics"
+  
+
+
+
+
+    "ProgramSpecificOutcomes or PSO": {
+      "name": "B.E. in Artificial Intelligence and Machine Learning",
+      "duration": "4 years",
+      "description": "A comprehensive program designed for ambitious students eager to embark on a fulfilling career in AI & ML",
+      "outcomes": {
+        "PSO1": "Graduates will be adept in programming and problem solving skills for developing and managing software",
+        "PSO2": "Graduates will be able to identify, formulate, predict and solve real world problems using AI & ML principles",
+        "PSO3": "Graduates will be proficient in efficiently managing computer system resources using cloud computing technologies"
+      }
+    },
+
+
+    "ProgramEducationalObjectives or PEO":{
+        "name": "B.E. in Artificial Intelligence and Machine Learning",
+        "duration": "4 years",
+        "description": "A comprehensive program designed for ambitious students eager to embark on a fulfilling career in AI & ML",
+        "outcomes": {
+          "PEO1": "Able to practice and implement their success skills like problem solving, communication and collaboration for providing innovative engineering solutions.",
+          "PEO2": "Contribute their AI & ML expertise grounded in computer science and mathematics as members and leaders of professional engineering teams in multidisciplinary domains.",
+          "PEO3": "Demonstrate lifelong learning through continued professional development and higher education in top graduate technical, research and management programs.",
+          "PEO4": "Demonstrate a commitment to society by applying the skills and knowledge for a smarter and ethical world."
+        }
+      },
+
+
+      
+
+
+
+    "program": {
+      "name": "B.E. in Artificial Intelligence and Machine Learning",
+      "duration": "4 years",
+      "description": "A comprehensive program designed for ambitious students eager to embark on a fulfilling career in AI & ML",
+      "outcomes": {
+        "PSO1": "Graduates will be adept in programming and problem solving skills for developing and managing software",
+        "PSO2": "Graduates will be able to identify, formulate, predict and solve real world problems using AI & ML principles",
+        "PSO3": "Graduates will be proficient in efficiently managing computer system resources using cloud computing technologies"
+      }
+    },
+    "curriculum": {
+      "learning_path": {
+        "languages": ["C", "Java", "Python", "R"],
+        "tools_frameworks": [
+          "Scikit Learn",
+          "TensorFlow",
+          "PyTorch",
+          "NLTK",
+          "Spark",
+          "Auto ML",
+          "H2O"
         ],
-        "ai_ml": [
-          "AI & ML Foundation",
-          "Deep Learning",
-          "Text Processing",
-          "Image & Video Processing"
-        ]
+        "core_tracks": {
+          "basic_engineering": [
+            "Mathematics Foundation",
+            "Computer Science Foundation",
+            "Cloud Computing",
+            "Big Data Analytics"
+          ],
+          "ai_ml": [
+            "AI & ML Foundation",
+            "Deep Learning",
+            "Text Processing",
+            "Image & Video Processing"
+          ]
+        }
       }
     }
-  }
-}
+ }
