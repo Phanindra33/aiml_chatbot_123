@@ -271,28 +271,28 @@
          "Which entrance exams are accepted for admission (e.g., KCET, COMEDK)?" : "Admission to Dayananda Sagar College of Engineering is primarily based on the Common Entrance Test (CET) conducted by the Karnataka government and COMEDK."
       ,
       
-         "Are there minimum cut-off marks required for the different engineering courses?"
-        : "Yes, there are minimum cut-off marks required for different engineering courses at DSCE. These cut-offs vary based on the course, category, and round of counseling. For instance, in 2024, the cut-off rank for Computer Science Engineering in the General category was 4024. You can check the official DSCE website or other reliable sources for the most accurate and up-to-date information on cut-off ranks."
+         "Are there minimum cut-off marks required for the different engineering courses?":
+        "Yes, there are minimum cut-off marks required for different engineering courses at DSCE. These cut-offs vary based on the course, category, and round of counseling. For instance, in 2024, the cut-off rank for Computer Science Engineering in the General category was 4024. You can check the official DSCE website or other reliable sources for the most accurate and up-to-date information on cut-off ranks."
       ,
       
-         "How are merit scholarships awarded, and what are the eligibility criteria?"
-        : "Students can explore various scholarship opportunities based on merit, need, and category. Some popular scholarships for engineering students include the Central Sector Scheme of Scholarships for College and University Students, Prime Minister's Scholarships for specific categories, and scholarships offered by organizations like Jindal Foundation and Dharmasthala Kshemabirudi Sangha. Additionally, state government scholarships like E-PASS and KAREPASS cater to specific categories and income criteria. It's recommended to check official government and private organization websites for detailed eligibility criteria, application procedures, and deadlines."
+         "How are merit scholarships awarded, and what are the eligibility criteria?":
+         "Students can explore various scholarship opportunities based on merit, need, and category. Some popular scholarships for engineering students include the Central Sector Scheme of Scholarships for College and University Students, Prime Minister's Scholarships for specific categories, and scholarships offered by organizations like Jindal Foundation and Dharmasthala Kshemabirudi Sangha. Additionally, state government scholarships like E-PASS and KAREPASS cater to specific categories and income criteria. It's recommended to check official government and private organization websites for detailed eligibility criteria, application procedures, and deadlines."
       ,
       
-         "Are there options for lateral entry into engineering programs?"
-        : "Yes, there are options for lateral entry into engineering programs in DSCE. This allows students who have completed a diploma in engineering or a similar qualification to directly enter the second year of a B.Tech program."
+         "Are there options for lateral entry into engineering programs?":
+         "Yes, there are options for lateral entry into engineering programs in DSCE. This allows students who have completed a diploma in engineering or a similar qualification to directly enter the second year of a B.Tech program."
       ,
       
-         "How many seats are available in each engineering branch?"
-        : "Dayananda Sagar College of Engineering (DSCE) offers a variety of engineering courses with varying seat intakes for the 2024-2025 academic year. Some of the popular courses and their approximate seat intakes include: Artificial Intelligence Machine Learning (AIML): 60, Computer Science and Engineering: 240 seats, Electronics and Communication Engineering: 240 seats, Electrical and Electronics Engineering: 120 seats, Computer Science and Design: 60 seats."
+         "How many seats are available in each engineering branch?":
+         "Dayananda Sagar College of Engineering (DSCE) offers a variety of engineering courses with varying seat intakes for the 2024-2025 academic year. Some of the popular courses and their approximate seat intakes include: Artificial Intelligence Machine Learning (AIML): 60, Computer Science and Engineering: 240 seats, Electronics and Communication Engineering: 240 seats, Electrical and Electronics Engineering: 120 seats, Computer Science and Design: 60 seats."
       ,
       
-         "Is there a management quota, and what is the process for applying to it?"
-        : "Eligibility: Minimum 70% in 10th standard Maths and Science, 65% in 12th standard Maths and Physics. Entrance Exam: Appear for CET/COMEDK/AIEEE/JEE/other national entrance tests. Document Verification: Submit original and scanned copies of 10th, 12th marksheets, transfer certificate, migration certificate (if applicable), passport-sized photo, and parents' PAN card. Hostel Accommodation: Book hostel accommodation in advance. Fee Payment: Make payments online or by DD after confirmation."
+         "Is there a management quota, and what is the process for applying to it?":
+         "Eligibility: Minimum 70% in 10th standard Maths and Science, 65% in 12th standard Maths and Physics. Entrance Exam: Appear for CET/COMEDK/AIEEE/JEE/other national entrance tests. Document Verification: Submit original and scanned copies of 10th, 12th marksheets, transfer certificate, migration certificate (if applicable), passport-sized photo, and parents' PAN card. Hostel Accommodation: Book hostel accommodation in advance. Fee Payment: Make payments online or by DD after confirmation."
       ,
       
-         "Are there specific admission criteria for non-Karnataka students?"
-        : "No, special criteria. Eligibility: Minimum 70% in 10th standard Maths and Science, 65% in 12th standard Maths and Physics. Entrance Exam: Appear for CET/COMEDK/AIEEE/JEE/other national entrance tests. Document Verification: Submit original and scanned copies of 10th, 12th marksheets, transfer certificate, migration certificate (if applicable), passport-sized photo, and parents' PAN card. Hostel Accommodation: Book hostel accommodation in advance. Fee Payment: Make payments online or by DD after confirmation."
+         "Are there specific admission criteria for non-Karnataka students?":
+         "No, special criteria. Eligibility: Minimum 70% in 10th standard Maths and Science, 65% in 12th standard Maths and Physics. Entrance Exam: Appear for CET/COMEDK/AIEEE/JEE/other national entrance tests. Document Verification: Submit original and scanned copies of 10th, 12th marksheets, transfer certificate, migration certificate (if applicable), passport-sized photo, and parents' PAN card. Hostel Accommodation: Book hostel accommodation in advance. Fee Payment: Make payments online or by DD after confirmation."
   },
   
   "Program-Specific Questions": {
